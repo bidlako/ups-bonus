@@ -1,6 +1,4 @@
 # Bonusove ulohy z KIV/UPS
-## Chat server/client
-slozka 01
 ## Navrh protokolu
 ### Message structure
 - Kazda zprava mezi *klientem* a *serverem* ma dve casti
